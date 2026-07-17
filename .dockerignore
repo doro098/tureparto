@@ -1,0 +1,9 @@
+.git/
+.gitignore
+*.db
+*.log
+.DS_Store
+README.md
+docs/
+.env
+.env.example
